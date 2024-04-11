@@ -21,8 +21,8 @@ python game.py
 - Play Again: You can play multiple rounds by running the script again.
 
 # Features
-- .Simple and easy-to-understand game interface.
-- Random selection of moves for the computer.
+- [x] Simple and easy-to-understand game interface.
+- [X] Random selection of moves for the computer.
 - Clear indication of the winner after each round.
 # Contributions
 - Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
