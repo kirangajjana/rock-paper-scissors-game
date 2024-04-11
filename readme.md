@@ -25,7 +25,7 @@ python game.py
 - [X] Random selection of moves for the computer.
 - [x] Clear indication of the winner after each round.
 # Contributions
-- Contributions are welcome :JOY:! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+- Contributions are welcome :joy:! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
 # License
 This project is licensed under the MIT License.
