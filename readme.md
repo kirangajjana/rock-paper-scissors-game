@@ -23,9 +23,9 @@ python game.py
 # Features
 - [x] Simple and easy-to-understand game interface.
 - [X] Random selection of moves for the computer.
-- Clear indication of the winner after each round.
+- [x] Clear indication of the winner after each round.
 # Contributions
-- Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+- Contributions are welcome :JOY:! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
 # License
 This project is licensed under the MIT License.
