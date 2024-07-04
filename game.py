@@ -1,6 +1,6 @@
 import random
 
-print("Welcome to the Rock 🪨 Paper📰 Scissors✂️ game!")
+
 user = input("Dear user, please enter your name to start the game: ")
 print(f"Hello, Mr. {user}! Thank you for playing the game.")
 
